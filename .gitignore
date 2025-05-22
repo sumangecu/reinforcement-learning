@@ -1,0 +1,6 @@
+.idea
+*.pyc
+*.bin
+extra
+.DS_Store
+.vscode/
